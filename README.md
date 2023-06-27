@@ -1,4 +1,11 @@
-# phishing_analysis - emails
+# phishing_analysis
+Learn about phishing and how to prevend being baited.
+
+## Pre Requisites
+
+Complete two rooms in tryhackme:
+- https://tryhackme.com/room/phishingemails1tryoe
+- https://tryhackme.com/room/phishingemails2rytmuv
 
 ## Case
 Your colleagues have provided you with emails in .eml format, ".eml" files are individual email files stored in Multipurpose Internet Mail Extensions (MIME) format. To scan .eml emails, you can use tools such as email clients (Outlook, Thunderbird, etc.), email viewing applications, or specialized tools such as email scanners.
